@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>NewGame</label>
+	</settings>
+	<users>
+		<user>
+			<path>NewGame.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>NewGame.jcp</path>
+		</project>
+	</projects>
+</workspace>
